@@ -31,7 +31,7 @@ Se desarrolló un sistema automatizado con:
 
 ## Cómo compilar y ejecutar
 
-### Usando g++ (MinGW / Linux)
+### Usando g++ MinGW
 ```bash
 g++ -o inventario.exe src/main.cpp
 ./inventario.exe
